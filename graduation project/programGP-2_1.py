@@ -4,7 +4,6 @@ import numpy as np
 import sys
 import glob
 import serial 
-import time
 import math
 
 root = Tk()
